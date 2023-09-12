@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\collab\\collab.csproj": {}
+    "d:\\vasamain\\assessment\\collab.csproj": {}
   },
   "projects": {
-    "D:\\collab\\collab.csproj": {
+    "d:\\vasamain\\assessment\\collab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\collab\\collab.csproj",
+        "projectUniqueName": "d:\\vasamain\\assessment\\collab.csproj",
         "projectName": "collab",
-        "projectPath": "D:\\collab\\collab.csproj",
-        "packagesPath": "C:\\Users\\keerthivasan.k\\.nuget\\packages\\",
-        "outputPath": "D:\\collab\\obj\\",
+        "projectPath": "d:\\vasamain\\assessment\\collab.csproj",
+        "packagesPath": "C:\\Users\\mano.selvaraj\\.nuget\\packages\\",
+        "outputPath": "d:\\vasamain\\assessment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\keerthivasan.k\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mano.selvaraj\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
